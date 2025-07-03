@@ -1,4 +1,4 @@
-## Lourdes College Student Porta
+## Lourdes College Student Portal
 l
 ## 💾**Download**
 Download the [latest release](https://github.com/moonlighthowling616/ionic-capstone/releases) here
