@@ -7,3 +7,6 @@ Web app of our student portal. Made for convenience
 ## 💾**Download**
 Download the [latest release here](https://github.com/moonlighthowling616/web-redirect-app/releases/) here 
 - ⚠️ Exclusive to Android
+
+## 🤔**Where to find the source code?**
+Its on the **master** branch
