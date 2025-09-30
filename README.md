@@ -9,4 +9,4 @@ Download the [latest release here](https://github.com/moonlighthowling616/web-re
 - ⚠️ Exclusive to Android
 
 ## 🤔**Where to find the source code?**
-Its on the **master** branch
+Its on **master** branch
